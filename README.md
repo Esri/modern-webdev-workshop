@@ -7,3 +7,7 @@ Presentations
 
 Repos
 * [travis-example](https://github.com/mjuniper/travis-example)
+* 
+[](Esri Tags: Web Frameworks Front-end Development Workshop Javascript)
+[](Esri Language: JS)
+
