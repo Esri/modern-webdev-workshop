@@ -17,6 +17,7 @@ Presentations
 * [Automation for JSAPI and WAB](http://tomwayson.github.io/mwd-jsapi/)
 * [Map App CSS-JS Build System - Calcite Maps](http://slides.com/alaframboise/calcite-maps#/) 
 * [Easier CSS Coding](http://patrickarlt.com/css-tooling-dev-summit-2016/#/)
+* [Modern Web Dev - ArcGIS JS API/WAB](http://tomwayson.github.io/mwd-jsapi/#/)
 
 Repos
 * [travis-example](https://github.com/mjuniper/travis-example)
