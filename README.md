@@ -19,7 +19,7 @@ Terms
 
 # Resources
 - [Google Developers Doc: Performance](https://developers.google.com/web/fundamentals/performance/?hl=en)
-_ [Google Developers Doc: Http Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=en#cache-control)
+- [Google Developers Doc: Http Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=en#cache-control)
 - [Designgin for Performance](http://larahogan.me/)
 - [Lara Hogan Talk @ Page Speed @ Etsy](https://www.youtube.com/watch?v=EPDZJbTLOQI)
 
