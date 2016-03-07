@@ -1,12 +1,20 @@
 # modern-webdev-workshop
 #### Modern front-end development workshop
 
+### Speakers
+- Dave Bouwman - dbouwman@esri.com
+- Mike Juniper - mjuniper@esri.com
+- Al Laframboise - alaframboise@esri.com (Calcite Maps)
+- Patrick Arlt - partl@esri.com (Sass)
+- Tom Wayson - twayson@esri.com (Automation for JSAPI and WAB)
+
+
 Presentations
 * [Modern Web Dev - JS](http://mjuniper.github.io/presentations/modern-webdev-js#/)
 * [Modern Web Dev - Travis CI](http://mjuniper.github.io/presentations/modern-webdev-ci#/)
 * [Modern Web Dev - Workflows](http://mjuniper.github.io/presentations/modern-webdev-workflow.html#/)
 * [Modern Web Dev - Debugging ](http://mjuniper.github.io/presentations/modern-webdev-debugging.html#/)
-
+* [Automation for JSAPI and WAB](http://tomwayson.github.io/mwd-jsapi/)
 
 Repos
 * [travis-example](https://github.com/mjuniper/travis-example)
