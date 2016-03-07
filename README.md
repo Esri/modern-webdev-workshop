@@ -16,6 +16,7 @@ Presentations
 * [Modern Web Dev - Debugging ](http://mjuniper.github.io/presentations/modern-webdev-debugging.html#/)
 * [Automation for JSAPI and WAB](http://tomwayson.github.io/mwd-jsapi/)
 * [Real-world Map App Build System - Calcite Maps](https://github.com/Esri/calcite-maps) 
+* [Easier CSS Coding](http://patrickarlt.com/css-tooling-dev-summit-2016/#/)
 
 Repos
 * [travis-example](https://github.com/mjuniper/travis-example)
