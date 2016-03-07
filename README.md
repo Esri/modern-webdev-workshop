@@ -18,9 +18,10 @@ Terms
 * 
 
 # Resources
+- [1000ms to Glass: Performance Talk (video)](https://www.youtube.com/watch?v=Il4swGfTOSM)
 - [Google Developers Doc: Performance](https://developers.google.com/web/fundamentals/performance/?hl=en)
 - [Google Developers Doc: Http Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=en#cache-control)
-- [Designgin for Performance](http://larahogan.me/)
+- [Desiging for Performance @ Etsy (Video)](http://larahogan.me/)
 - [Lara Hogan Talk @ Page Speed @ Etsy](https://www.youtube.com/watch?v=EPDZJbTLOQI)
 
 
