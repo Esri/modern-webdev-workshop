@@ -22,7 +22,8 @@ Presentations
 Repos
 * [travis-example](https://github.com/mjuniper/travis-example)
 * [debugging hands-on](https://github.com/mjuniper/mwd-debugging)
-* [mwd-yo-worflow](https://github.com/mjuniper/mwd-yo-workflow/issues/2)
+* [mwd-yo-worflow](https://github.com/mjuniper/mwd-yo-workflow)
+* [mwd-npm-workflow](https://github.com/mjuniper/mwd-npm-workflow)
 
 
 Terms
