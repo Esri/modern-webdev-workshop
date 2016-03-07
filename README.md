@@ -5,9 +5,13 @@ Presentations
 * [Modern Web Dev - JS](http://mjuniper.github.io/presentations/modern-webdev-js#/)
 * [Modern Web Dev - Travis CI](http://mjuniper.github.io/presentations/modern-webdev-ci#/)
 * [Modern Web Dev - Workflows](http://mjuniper.github.io/presentations/modern-webdev-workflow.html#/)
+* [Modern Web Dev - Debugging ](http://mjuniper.github.io/presentations/modern-webdev-debugging.html#/)
+
 
 Repos
 * [travis-example](https://github.com/mjuniper/travis-example)
+* [debugging hands-on](https://github.com/mjuniper/mwd-debugging)
+
 
 Terms
 * [node](nodejs.org) - v8 javascript engine that runs outside a browser, available Win/mac/Linux; used for automation
